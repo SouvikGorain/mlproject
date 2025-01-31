@@ -25,3 +25,5 @@ packages=find_packages(),
 install_requires=get_requirements('requirements.txt')        #['pandas','numpy','seaborn']
 
 )
+
+#python config file is mainly to tell AWS elastic beanstalk what is the entry point of your application
