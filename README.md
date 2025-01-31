@@ -1,1 +1,1 @@
-## End to End Machine Learning project with AWS deployment ####
+## End to End ML project with AWS deployment ####
